@@ -10,7 +10,7 @@ void suoritaArvauspeli() {
 
     int etsittavaLuku = std::rand() % 20 + 1;
 
-    // Aloita peli
+    
     std::cout << "Tervetuloa arvauspeliin! Arvaa luku valilla 1-20." << std::endl;
 
     int arvaus;
